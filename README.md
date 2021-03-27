@@ -1,1 +1,1 @@
-"Maske ob pravilni uporabi so ucinkovite !" 
+"Maske so ob pravilni uporabi ucinkovite !" 
